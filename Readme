@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Hedzween/Portfolio.git
 git push -u origin main
+
+# This file is for all my past project will be updated as soon as my Final Year Project is done
